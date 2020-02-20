@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option1"
+        android:title="Option 1"
+        android:icon="@drawable/ic_launcher_foreground"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/option2"
+        android:title="Option 2"
+        android:icon="@drawable/ic_launcher_foreground"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/option3"
+        android:title="Option 3"
+        android:icon="@drawable/ic_launcher_foreground"
+        tools:ignore="HardcodedText" />
+
+</menu>
